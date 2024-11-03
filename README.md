@@ -1,27 +1,23 @@
-# VisualizzatorediMeteoconPreferiti
+# App Meteo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.15.
+## Descrizione
 
-## Development server
+L'App Meteo è un'applicazione web che consente agli utenti di visualizzare i dati meteo per diverse città, utilizzando l'API di Open Meteo. Gli utenti possono cercare una città, visualizzare le condizioni meteo attuali e salvare le città preferite per un accesso rapido ai dati.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Caratteristiche
 
-## Code scaffolding
+- **Visualizzazione Meteo**: Consulta le informazioni meteo attuali come temperatura, velocità del vento e umidità.
+- **Città Preferite**: Salva le città preferite per un accesso rapido ai dati meteo in futuro.
+- **Interfaccia User-Friendly**: Design semplice e intuitivo per un'esperienza utente fluida.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologie Utilizzate
 
-## Build
+- **Angular**: Framework front-end per la costruzione dell'interfaccia utente.
+- **TypeScript**: Linguaggio di programmazione utilizzato per lo sviluppo dell'applicazione.
+- **API di Open Meteo**: API utilizzata per ottenere i dati meteo.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Istruzioni per l'Installazione
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. **Clona il repository**:
+   ```bash
+   git clone https://github.com/stefortezza/VisualizzatorediMeteoconPreferiti.git
